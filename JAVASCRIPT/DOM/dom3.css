@@ -1,0 +1,24 @@
+body{
+    background-color:aquamarine;
+}
+#paraId{
+    color:midnightblue;
+    font-size: x-large;
+    
+}
+#btn1,#btn2,#btn3{
+    color: white;
+    background-color: darkblue;
+    margin-top: 50px;
+    border-radius: 5px;
+    height:40px;
+    width:60px;
+}
+.box{
+    margin-left: 150px;
+}
+#btn4{
+    height:400px;
+    width:50px;
+    margin-bottom: 50px;
+}
