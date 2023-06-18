@@ -1,0 +1,11 @@
+body{ 
+    background-color: black;
+}
+.imageSize{
+    height:200px;
+    width:200px;
+    margin-left: 550px;
+}
+#btn1,btn2{
+    margin-left: 620px;
+}
